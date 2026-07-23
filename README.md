@@ -82,4 +82,20 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Varshith019/java-dsa/tree/master/0229-majority-element-ii) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
