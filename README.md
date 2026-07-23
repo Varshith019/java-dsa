@@ -8,6 +8,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | ------- |
 | [0011-container-with-most-water](https://github.com/Varshith019/java-dsa/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Varshith019/java-dsa/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Varshith019/java-dsa/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/Varshith019/java-dsa/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/Varshith019/java-dsa/tree/master/0229-majority-element-ii) |
@@ -61,6 +62,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | ------- |
 | [0011-container-with-most-water](https://github.com/Varshith019/java-dsa/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Varshith019/java-dsa/tree/master/0027-remove-element) |
 | [0881-boats-to-save-people](https://github.com/Varshith019/java-dsa/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
