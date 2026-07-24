@@ -24,6 +24,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0977-squares-of-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/Varshith019/java-dsa/tree/master/1089-duplicate-zeros) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Varshith019/java-dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-k-radius-subarray-averages](https://github.com/Varshith019/java-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
@@ -36,6 +37,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0368-largest-divisible-subset](https://github.com/Varshith019/java-dsa/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Varshith019/java-dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varshith019/java-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Varshith019/java-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Varshith019/java-dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-k-radius-subarray-averages](https://github.com/Varshith019/java-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Varshith019/java-dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
