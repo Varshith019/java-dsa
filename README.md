@@ -67,6 +67,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varshith019/java-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/Varshith019/java-dsa/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Varshith019/java-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varshith019/java-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Varshith019/java-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Varshith019/java-dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -128,6 +130,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varshith019/java-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Varshith019/java-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Varshith019/java-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Varshith019/java-dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-k-radius-subarray-averages](https://github.com/Varshith019/java-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Varshith019/java-dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
