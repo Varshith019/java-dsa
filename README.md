@@ -80,6 +80,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | ------- |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Varshith019/java-dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -115,4 +116,8 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0110-balanced-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Varshith019/java-dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
