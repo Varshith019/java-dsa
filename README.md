@@ -23,6 +23,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0540-single-element-in-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Varshith019/java-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Varshith019/java-dsa/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Varshith019/java-dsa/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
@@ -49,6 +50,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0300-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Varshith019/java-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Varshith019/java-dsa/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
