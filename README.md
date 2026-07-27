@@ -28,6 +28,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0977-squares-of-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/Varshith019/java-dsa/tree/master/1089-duplicate-zeros) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Varshith019/java-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Varshith019/java-dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-k-radius-subarray-averages](https://github.com/Varshith019/java-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -51,6 +52,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0540-single-element-in-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Varshith019/java-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Varshith019/java-dsa/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Varshith019/java-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Greedy
 |  |
 | ------- |
