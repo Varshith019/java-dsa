@@ -135,10 +135,12 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0129-sum-root-to-leaf-numbers](https://github.com/Varshith019/java-dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Varshith019/java-dsa/tree/master/0257-binary-tree-paths) |
+| [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -166,4 +168,12 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | ------- |
 | [0113-path-sum-ii](https://github.com/Varshith019/java-dsa/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Varshith019/java-dsa/tree/master/0257-binary-tree-paths) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
