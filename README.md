@@ -126,6 +126,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0129-sum-root-to-leaf-numbers](https://github.com/Varshith019/java-dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Varshith019/java-dsa/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0129-sum-root-to-leaf-numbers](https://github.com/Varshith019/java-dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Varshith019/java-dsa/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -150,6 +152,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0129-sum-root-to-leaf-numbers](https://github.com/Varshith019/java-dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Varshith019/java-dsa/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
