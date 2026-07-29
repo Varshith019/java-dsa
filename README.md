@@ -87,6 +87,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0027-remove-element](https://github.com/Varshith019/java-dsa/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Varshith019/java-dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Varshith019/java-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Varshith019/java-dsa/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
@@ -179,4 +180,8 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
