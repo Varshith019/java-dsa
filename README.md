@@ -87,6 +87,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0011-container-with-most-water](https://github.com/Varshith019/java-dsa/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Varshith019/java-dsa/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Varshith019/java-dsa/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Varshith019/java-dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Varshith019/java-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Varshith019/java-dsa/tree/master/0160-intersection-of-two-linked-lists) |
@@ -187,6 +188,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Varshith019/java-dsa/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Varshith019/java-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0876-middle-of-the-linked-list) |
