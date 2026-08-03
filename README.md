@@ -27,6 +27,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0852-peak-index-in-a-mountain-array](https://github.com/Varshith019/java-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Varshith019/java-dsa/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Varshith019/java-dsa/tree/master/0881-boats-to-save-people) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Varshith019/java-dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/Varshith019/java-dsa/tree/master/1089-duplicate-zeros) |
@@ -47,6 +48,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Varshith019/java-dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Varshith019/java-dsa/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Varshith019/java-dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Varshith019/java-dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
@@ -126,6 +128,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Varshith019/java-dsa/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Varshith019/java-dsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -223,4 +226,12 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Varshith019/java-dsa/tree/master/0303-range-sum-query-immutable) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Varshith019/java-dsa/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Varshith019/java-dsa/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
