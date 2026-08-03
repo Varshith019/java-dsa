@@ -33,6 +33,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Varshith019/java-dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-k-radius-subarray-averages](https://github.com/Varshith019/java-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Varshith019/java-dsa/tree/master/2460-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [1089-duplicate-zeros](https://github.com/Varshith019/java-dsa/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Varshith019/java-dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Varshith019/java-dsa/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -205,4 +207,8 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Varshith019/java-dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/Varshith019/java-dsa/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
