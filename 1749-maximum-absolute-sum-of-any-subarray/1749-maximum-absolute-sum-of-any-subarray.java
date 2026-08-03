@@ -14,7 +14,6 @@ class Solution {
         }
         int a = Math.abs(maxi);
         int b = Math.abs(mini);
-        System.out.print(a+" "+b);
         return Math.max(a,b);
     }
 }
