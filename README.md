@@ -12,6 +12,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0053-maximum-subarray](https://github.com/Varshith019/java-dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Varshith019/java-dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Varshith019/java-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/Varshith019/java-dsa/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Varshith019/java-dsa/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Varshith019/java-dsa/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Varshith019/java-dsa/tree/master/0209-minimum-size-subarray-sum) |
@@ -44,6 +45,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Varshith019/java-dsa/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Varshith019/java-dsa/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Varshith019/java-dsa/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Varshith019/java-dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
