@@ -15,12 +15,20 @@
  */
 class Solution {
     boolean is = false;
+    public boolean isleaf(TreeNode root){
+        if(root.left==null && root.right==null){
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
     public void  path(TreeNode root,int targetsum){
         if(root==null) {
             return;
         }
         targetsum -=root.val;
-       if(root.right==null && root.left==null && targetsum==0) {
+       if(isleaf(root) && targetsum==0) {
         is = true;
        }
        path(root.left,targetsum);
