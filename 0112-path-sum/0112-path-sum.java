@@ -24,7 +24,7 @@ class Solution {
         }
     }
     public void  path(TreeNode root,int targetsum){
-        if(root==null) {
+        if(root==null || is) {
             return;
         }
         targetsum -=root.val;
