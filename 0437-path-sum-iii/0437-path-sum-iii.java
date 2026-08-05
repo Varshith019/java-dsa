@@ -14,26 +14,29 @@
  * }
  */
 class Solution {
-    int count = 0;
-    public void path(TreeNode root,long target){
-        if(root==null) return;
-        target = target-root.val;
-        if(target==0) {
-            count+=1;
-        }
-        path(root.left,target);
-        path(root.right,target);
-    }
-    public void calling(TreeNode root,long target){
-        if(root==null) return;
-        path(root,target);
-        calling(root.left,target);
-        calling(root.right,target);
-    }
     public int pathSum(TreeNode root, int targetSum) {
-        if(root==null) return 0;
-        
-        calling(root,(long)targetSum);
+        HashMap<Long, Integer> map = new HashMap<>();
+        map.put(0L, 1);
+
+        return dfs(root, 0L, (long) targetSum, map);
+    }
+
+    private int dfs(TreeNode root, long currentSum,
+                    long targetSum, HashMap<Long, Integer> map) {
+
+        if (root == null) return 0;
+
+        currentSum += root.val;
+
+        int count = map.getOrDefault(currentSum - targetSum, 0);
+
+        map.put(currentSum, map.getOrDefault(currentSum, 0) + 1);
+
+        count += dfs(root.left, currentSum, targetSum, map);
+        count += dfs(root.right, currentSum, targetSum, map);
+       //after completing the one path then i have remove elemnet of currennt because i deverse path for checking valid target sum
+        map.put(currentSum, map.get(currentSum) - 1);
+
         return count;
     }
 }
