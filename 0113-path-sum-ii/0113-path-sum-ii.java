@@ -14,28 +14,28 @@
  * }
  */
 class Solution {
-    public static void fun(TreeNode root,int target,List<Integer> list,List<List<Integer>> ans){
-        if(root==null) {
-            return;
+    public boolean isleaf(TreeNode root){
+        if(root.left==null && root.right==null){
+            return true;
         }
+        return false;
+    }
+    public void path(TreeNode root,int targetsum,List<List<Integer>> ans,List<Integer> list){
+        if(root==null) return;
+        targetsum = targetsum-root.val;
         list.add(root.val);
-        target = target-root.val;
-        //node to leaf path so u can understand clear question statement 
-        if(target==0 && root.left==null && root.right==null){
+        if(isleaf(root) && targetsum==0){
             ans.add(new ArrayList<>(list));
         }
-        fun(root.left,target,list,ans);
-        fun(root.right,target,list,ans);
-
+        path(root.left,targetsum,ans,list);
+        path(root.right,targetsum,ans,list);
         list.remove(list.size()-1);
-        
         
     }
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> list = new ArrayList<>();
-        fun(root,targetSum,list,ans);
-        return ans;
-
+      List<List<Integer>> ans = new ArrayList<>();
+      List<Integer> temp = new ArrayList<>();
+      path(root,targetSum,ans,temp); 
+      return ans;
     }
 }
