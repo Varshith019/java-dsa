@@ -13,19 +13,29 @@
  *     }
  * }
  */
- // recursive solution 
- 
+ // iterative solution 
+
 class Solution {
-    public static void right(TreeNode root,List<Integer> ls,int level){
-        if(root==null) return;
-        if(level==ls.size()) ls.add(root.val);
-        right(root.right,ls,level+1);
-        right(root.left,ls,level+1);
-    }
+    
     public List<Integer> rightSideView(TreeNode root) {
     List<Integer> ls = new ArrayList<>();
-    right(root,ls,0);
-    return ls;
+    if(root==null) {
         
+        return ls;
+    }
+    Queue<TreeNode> q = new ArrayDeque<>();
+    q.offer(root);
+    while(!q.isEmpty()){
+        TreeNode last = null;
+        int len = q.size();
+        for(int i=0;i<len;i++){
+            TreeNode curr = q.poll();
+            last = curr;
+            if(curr.left!=null) q.offer(curr.left);
+            if(curr.right!=null) q.offer(curr.right);
+        }
+        ls.add(last.val);
+    }
+        return ls;
     }
 }
