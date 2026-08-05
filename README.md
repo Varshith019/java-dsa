@@ -118,6 +118,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0257-binary-tree-paths](https://github.com/Varshith019/java-dsa/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/Varshith019/java-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Varshith019/java-dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Binary Indexed Tree
@@ -154,6 +155,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0437-path-sum-iii](https://github.com/Varshith019/java-dsa/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Varshith019/java-dsa/tree/master/0572-subtree-of-another-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0437-path-sum-iii](https://github.com/Varshith019/java-dsa/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Varshith019/java-dsa/tree/master/0572-subtree-of-another-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -198,6 +201,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0437-path-sum-iii](https://github.com/Varshith019/java-dsa/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Varshith019/java-dsa/tree/master/0572-subtree-of-another-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Sliding Window
 |  |
 | ------- |
@@ -275,8 +279,10 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
