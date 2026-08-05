@@ -13,6 +13,8 @@
  *     }
  * }
  */
+ // recursive solution 
+ 
 class Solution {
     public static void right(TreeNode root,List<Integer> ls,int level){
         if(root==null) return;
