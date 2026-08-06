@@ -122,6 +122,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Varshith019/java-dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2390-removing-stars-from-a-string](https://github.com/Varshith019/java-dsa/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -249,6 +250,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | ------- |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Varshith019/java-dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Varshith019/java-dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2390-removing-stars-from-a-string](https://github.com/Varshith019/java-dsa/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -256,6 +258,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Varshith019/java-dsa/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Varshith019/java-dsa/tree/master/2460-apply-operations-to-an-array) |
 ## Design
 |  |
