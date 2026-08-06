@@ -149,6 +149,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0111-minimum-depth-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Varshith019/java-dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Varshith019/java-dsa/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Varshith019/java-dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Varshith019/java-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0226-invert-binary-tree) |
@@ -166,6 +167,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0111-minimum-depth-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Varshith019/java-dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Varshith019/java-dsa/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Varshith019/java-dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Varshith019/java-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0226-invert-binary-tree) |
@@ -195,6 +197,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0111-minimum-depth-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Varshith019/java-dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Varshith019/java-dsa/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Varshith019/java-dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Varshith019/java-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0226-invert-binary-tree) |
@@ -237,6 +240,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Varshith019/java-dsa/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Varshith019/java-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0876-middle-of-the-linked-list) |
@@ -248,6 +252,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Varshith019/java-dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Varshith019/java-dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/Varshith019/java-dsa/tree/master/2390-removing-stars-from-a-string) |
