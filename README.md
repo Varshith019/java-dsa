@@ -158,6 +158,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0437-path-sum-iii](https://github.com/Varshith019/java-dsa/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Varshith019/java-dsa/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Varshith019/java-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
@@ -206,6 +207,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0437-path-sum-iii](https://github.com/Varshith019/java-dsa/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Varshith019/java-dsa/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Varshith019/java-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Sliding Window
 |  |
@@ -295,4 +297,8 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Varshith019/java-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
