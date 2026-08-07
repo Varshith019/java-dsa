@@ -143,6 +143,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Varshith019/java-dsa/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Varshith019/java-dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0110-balanced-binary-tree) |
@@ -163,6 +164,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Varshith019/java-dsa/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -192,6 +194,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Varshith019/java-dsa/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Varshith019/java-dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0110-balanced-binary-tree) |
@@ -300,5 +303,6 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Varshith019/java-dsa/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Varshith019/java-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
