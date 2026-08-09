@@ -16,6 +16,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0162-find-peak-element](https://github.com/Varshith019/java-dsa/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Varshith019/java-dsa/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Varshith019/java-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Varshith019/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Varshith019/java-dsa/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Varshith019/java-dsa/tree/master/0303-range-sum-query-immutable) |
@@ -84,6 +85,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Varshith019/java-dsa/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Varshith019/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Varshith019/java-dsa/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Varshith019/java-dsa/tree/master/0368-largest-divisible-subset) |
 | [0881-boats-to-save-people](https://github.com/Varshith019/java-dsa/tree/master/0881-boats-to-save-people) |
@@ -139,6 +141,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Varshith019/java-dsa/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Varshith019/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Varshith019/java-dsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
@@ -313,7 +316,12 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Varshith019/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/Varshith019/java-dsa/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Varshith019/java-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Varshith019/java-dsa/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Varshith019/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
