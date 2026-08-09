@@ -42,6 +42,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [2090-k-radius-subarray-averages](https://github.com/Varshith019/java-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Varshith019/java-dsa/tree/master/2460-apply-operations-to-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Varshith019/java-dsa/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -271,6 +272,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Varshith019/java-dsa/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Varshith019/java-dsa/tree/master/2460-apply-operations-to-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Varshith019/java-dsa/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Design
 |  |
 | ------- |
@@ -310,4 +312,5 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/Varshith019/java-dsa/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Varshith019/java-dsa/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
