@@ -31,6 +31,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0875-koko-eating-bananas](https://github.com/Varshith019/java-dsa/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Varshith019/java-dsa/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Varshith019/java-dsa/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Varshith019/java-dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Varshith019/java-dsa/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
@@ -81,6 +82,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Varshith019/java-dsa/tree/master/0368-largest-divisible-subset) |
+| [0973-k-closest-points-to-origin](https://github.com/Varshith019/java-dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Varshith019/java-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
@@ -91,6 +93,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0347-top-k-frequent-elements](https://github.com/Varshith019/java-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Varshith019/java-dsa/tree/master/0368-largest-divisible-subset) |
 | [0881-boats-to-save-people](https://github.com/Varshith019/java-dsa/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/Varshith019/java-dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
 ## Hash Table
@@ -147,6 +150,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0215-kth-largest-element-in-an-array](https://github.com/Varshith019/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Varshith019/java-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Varshith019/java-dsa/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Varshith019/java-dsa/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -328,6 +332,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0215-kth-largest-element-in-an-array](https://github.com/Varshith019/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Varshith019/java-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Varshith019/java-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/Varshith019/java-dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Varshith019/java-dsa/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Varshith019/java-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Varshith019/java-dsa/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -336,6 +341,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varshith019/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Varshith019/java-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Varshith019/java-dsa/tree/master/0973-k-closest-points-to-origin) |
 ## Data Stream
 |  |
 | ------- |
@@ -344,4 +350,12 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Varshith019/java-dsa/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Varshith019/java-dsa/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Varshith019/java-dsa/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
