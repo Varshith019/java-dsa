@@ -8,9 +8,12 @@ class Solution {
     public int[][] kClosest(int[][] points, int k) {
         int n = points.length;
        
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->dis(a)-dis(b));
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->dis(b)-dis(a));
         for(int i=0;i<n;i++){
            pq.offer(points[i]);
+           if(pq.size()>k){
+              pq.poll();
+           }
         }
         int[][] ans = new int[k][2];
         int i = 0;
