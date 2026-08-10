@@ -43,6 +43,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [1636-sort-array-by-increasing-frequency](https://github.com/Varshith019/java-dsa/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/Varshith019/java-dsa/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Varshith019/java-dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1834-single-threaded-cpu](https://github.com/Varshith019/java-dsa/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Varshith019/java-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2090-k-radius-subarray-averages](https://github.com/Varshith019/java-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -100,6 +101,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0977-squares-of-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Varshith019/java-dsa/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1834-single-threaded-cpu](https://github.com/Varshith019/java-dsa/tree/master/1834-single-threaded-cpu) |
 ## Hash Table
 |  |
 | ------- |
@@ -349,6 +351,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0703-kth-largest-element-in-a-stream](https://github.com/Varshith019/java-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Varshith019/java-dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Varshith019/java-dsa/tree/master/1046-last-stone-weight) |
+| [1834-single-threaded-cpu](https://github.com/Varshith019/java-dsa/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Varshith019/java-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Varshith019/java-dsa/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Quickselect
