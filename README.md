@@ -146,6 +146,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Varshith019/java-dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Varshith019/java-dsa/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varshith019/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Varshith019/java-dsa/tree/master/0347-top-k-frequent-elements) |
@@ -262,6 +263,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Varshith019/java-dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Varshith019/java-dsa/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Varshith019/java-dsa/tree/master/0160-intersection-of-two-linked-lists) |
@@ -329,6 +331,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Varshith019/java-dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varshith019/java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Varshith019/java-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Varshith019/java-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -358,4 +361,12 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Varshith019/java-dsa/tree/master/0973-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Varshith019/java-dsa/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Varshith019/java-dsa/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
