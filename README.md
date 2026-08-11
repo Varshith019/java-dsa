@@ -29,6 +29,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Varshith019/java-dsa/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Varshith019/java-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Varshith019/java-dsa/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Varshith019/java-dsa/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Varshith019/java-dsa/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Varshith019/java-dsa/tree/master/0918-maximum-sum-circular-subarray) |
@@ -80,6 +81,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0011-container-with-most-water](https://github.com/Varshith019/java-dsa/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Varshith019/java-dsa/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Varshith019/java-dsa/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Varshith019/java-dsa/tree/master/0881-boats-to-save-people) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Varshith019/java-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Math
