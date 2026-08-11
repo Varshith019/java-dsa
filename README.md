@@ -24,6 +24,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0334-increasing-triplet-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Varshith019/java-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Varshith019/java-dsa/tree/master/0368-largest-divisible-subset) |
+| [0455-assign-cookies](https://github.com/Varshith019/java-dsa/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Varshith019/java-dsa/tree/master/0724-find-pivot-index) |
@@ -78,6 +79,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | ------- |
 | [0011-container-with-most-water](https://github.com/Varshith019/java-dsa/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0334-increasing-triplet-subsequence) |
+| [0455-assign-cookies](https://github.com/Varshith019/java-dsa/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Varshith019/java-dsa/tree/master/0881-boats-to-save-people) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Varshith019/java-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Math
@@ -96,6 +98,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0347-top-k-frequent-elements](https://github.com/Varshith019/java-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Varshith019/java-dsa/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Varshith019/java-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Varshith019/java-dsa/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Varshith019/java-dsa/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Varshith019/java-dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -124,6 +127,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Varshith019/java-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Varshith019/java-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Varshith019/java-dsa/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/Varshith019/java-dsa/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Varshith019/java-dsa/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -386,4 +390,8 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Varshith019/java-dsa/tree/master/0023-merge-k-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Varshith019/java-dsa/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
