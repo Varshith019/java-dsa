@@ -28,6 +28,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0463-island-perimeter](https://github.com/Varshith019/java-dsa/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/Varshith019/java-dsa/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Varshith019/java-dsa/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Varshith019/java-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Varshith019/java-dsa/tree/master/0860-lemonade-change) |
@@ -216,6 +217,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0463-island-perimeter](https://github.com/Varshith019/java-dsa/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Varshith019/java-dsa/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Varshith019/java-dsa/tree/master/0695-max-area-of-island) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -228,6 +230,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0199-binary-tree-right-side-view](https://github.com/Varshith019/java-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Varshith019/java-dsa/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Varshith019/java-dsa/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -275,6 +278,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Varshith019/java-dsa/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -403,4 +407,5 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Varshith019/java-dsa/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Varshith019/java-dsa/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
