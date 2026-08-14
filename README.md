@@ -116,6 +116,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varshith019/java-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/Varshith019/java-dsa/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Varshith019/java-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/Varshith019/java-dsa/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Varshith019/java-dsa/tree/master/0347-top-k-frequent-elements) |
@@ -147,6 +148,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varshith019/java-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/Varshith019/java-dsa/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/Varshith019/java-dsa/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/Varshith019/java-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Varshith019/java-dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -231,6 +233,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Varshith019/java-dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Varshith019/java-dsa/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Varshith019/java-dsa/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Varshith019/java-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Varshith019/java-dsa/tree/master/0463-island-perimeter) |
@@ -417,4 +420,8 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0542-01-matrix](https://github.com/Varshith019/java-dsa/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Varshith019/java-dsa/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Varshith019/java-dsa/tree/master/1020-number-of-enclaves) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Varshith019/java-dsa/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
