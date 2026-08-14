@@ -27,6 +27,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0455-assign-cookies](https://github.com/Varshith019/java-dsa/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Varshith019/java-dsa/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Varshith019/java-dsa/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Varshith019/java-dsa/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Varshith019/java-dsa/tree/master/0724-find-pivot-index) |
@@ -62,6 +63,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0300-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Varshith019/java-dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Varshith019/java-dsa/tree/master/0368-largest-divisible-subset) |
+| [0542-01-matrix](https://github.com/Varshith019/java-dsa/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Varshith019/java-dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
@@ -230,6 +232,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0199-binary-tree-right-side-view](https://github.com/Varshith019/java-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Varshith019/java-dsa/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Varshith019/java-dsa/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Varshith019/java-dsa/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -407,5 +410,6 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Varshith019/java-dsa/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Varshith019/java-dsa/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Varshith019/java-dsa/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
