@@ -38,6 +38,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0918-maximum-sum-circular-subarray](https://github.com/Varshith019/java-dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Varshith019/java-dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/Varshith019/java-dsa/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Varshith019/java-dsa/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/Varshith019/java-dsa/tree/master/1089-duplicate-zeros) |
@@ -220,6 +221,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0543-diameter-of-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Varshith019/java-dsa/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Varshith019/java-dsa/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/Varshith019/java-dsa/tree/master/1020-number-of-enclaves) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -234,6 +236,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0463-island-perimeter](https://github.com/Varshith019/java-dsa/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Varshith019/java-dsa/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Varshith019/java-dsa/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/Varshith019/java-dsa/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -282,6 +285,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Varshith019/java-dsa/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/Varshith019/java-dsa/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -412,4 +416,5 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0463-island-perimeter](https://github.com/Varshith019/java-dsa/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Varshith019/java-dsa/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Varshith019/java-dsa/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/Varshith019/java-dsa/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
