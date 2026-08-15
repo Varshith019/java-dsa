@@ -8,12 +8,14 @@ class Solution {
         return dp[n];
     }
     public int tab(int n,int[] dp){
-        dp[0]  = 1;
-        dp[1] = 1;
+        int p1 = 1;
+        int p2 = 1;
         for(int i=2;i<=n;i++){
-        dp[i] = dp[i-1]+dp[i-2]; 
+        int curr = p1+p2;
+        p2 = p1;
+        p1 = curr; 
         }
-        return dp[n];
+        return p1;
     }
     public int climbStairs(int n) {
         int[] dp = new int[n+1];
