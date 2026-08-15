@@ -59,6 +59,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Varshith019/java-dsa/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Varshith019/java-dsa/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Varshith019/java-dsa/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Varshith019/java-dsa/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0300-longest-increasing-subsequence) |
@@ -92,6 +93,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Varshith019/java-dsa/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Varshith019/java-dsa/tree/master/0368-largest-divisible-subset) |
 | [0973-k-closest-points-to-origin](https://github.com/Varshith019/java-dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Varshith019/java-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -424,4 +426,8 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Varshith019/java-dsa/tree/master/0127-word-ladder) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Varshith019/java-dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
