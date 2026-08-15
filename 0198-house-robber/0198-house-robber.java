@@ -9,10 +9,23 @@ class Solution {
         return dp[n] = Math.max(pick,notpick);
 
     }
+    public int fun1(int n,int[] nums,int[] dp){
+        dp[0] = nums[0];
+        for(int i=1;i<=n;i++){
+            int pick = nums[i];
+            if(i>1){
+             pick +=dp[i-2];
+            }
+            int notpick = dp[i-1];
+            dp[i] = Math.max(pick,notpick);
+        }
+        return dp[n];
+
+    }
     public int rob(int[] nums) {
         int n = nums.length;
         int[] dp = new int[n];
-        Arrays.fill(dp,-1);
-        return fun(n-1,nums,dp);
+        
+        return fun1(n-1,nums,dp);
     }
 }
