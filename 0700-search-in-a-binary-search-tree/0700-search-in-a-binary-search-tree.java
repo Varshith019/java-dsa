@@ -14,17 +14,13 @@
  * }
  */
 class Solution {
+    public TreeNode BST(TreeNode root,int val){
+        if(root==null) return null;
+        if(root.val==val) return root;
+        if(root.val<val) return BST(root.right,val);
+        else return BST(root.left,val);
+    }
     public TreeNode searchBST(TreeNode root, int val) {
-        TreeNode temp = root;
-        while(temp!=null){
-            if(temp.val==val) return temp;
-            if(temp.val>val) {
-                temp= temp.left;
-            }
-            else {
-                temp= temp.right;
-            }
-        }
-        return null;
+        return BST(root,val);
     }
 }
