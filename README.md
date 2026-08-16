@@ -56,6 +56,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Varshith019/java-dsa/tree/master/2460-apply-operations-to-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Varshith019/java-dsa/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Varshith019/java-dsa/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0860-lemonade-change](https://github.com/Varshith019/java-dsa/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Varshith019/java-dsa/tree/master/0881-boats-to-save-people) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Varshith019/java-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Varshith019/java-dsa/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Varshith019/java-dsa/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1834-single-threaded-cpu](https://github.com/Varshith019/java-dsa/tree/master/1834-single-threaded-cpu) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Varshith019/java-dsa/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -283,6 +286,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0303-range-sum-query-immutable](https://github.com/Varshith019/java-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Varshith019/java-dsa/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Varshith019/java-dsa/tree/master/1732-find-the-highest-altitude) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Varshith019/java-dsa/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Backtracking
 |  |
 | ------- |
