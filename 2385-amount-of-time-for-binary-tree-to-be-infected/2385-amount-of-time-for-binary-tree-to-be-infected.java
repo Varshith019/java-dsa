@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    TreeNode target = null;
     public void markparent(HashMap<TreeNode,TreeNode> hm,TreeNode root,Queue<TreeNode> qp){
         hm.put(root,null);
         qp.offer(root);
@@ -30,16 +31,14 @@ class Solution {
         }
         
     }
-    public TreeNode check(TreeNode root,int start){
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
-        while(!q.isEmpty()){
-            TreeNode curr = q.poll();
-            if(curr.val==start) return curr;
-            if(curr.left!=null) q.offer(curr.left);
-            if(curr.right!=null) q.offer(curr.right);
+    public void check(TreeNode root,int start){
+        if(root==null||target!=null) return;
+        if(root.val==start) {
+            target = root;
+            return;
         }
-        return null;
+        check(root.left,start);
+        check(root.right,start);
     }
     public int amountOfTime(TreeNode root, int start) {
          if(root==null) return 0;
@@ -49,7 +48,7 @@ class Solution {
 
           HashSet<TreeNode> hs = new HashSet<>();
           Queue<TreeNode> q = new LinkedList<>();
-          TreeNode target = check(root,start);
+          check(root,start);
           q.offer(target);
           hs.add(target);
           int level = 0;
