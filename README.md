@@ -132,6 +132,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Varshith019/java-dsa/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Varshith019/java-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0703-kth-largest-element-in-a-stream](https://github.com/Varshith019/java-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Varshith019/java-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -235,6 +237,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Varshith019/java-dsa/tree/master/1020-number-of-enclaves) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Varshith019/java-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -251,6 +254,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0695-max-area-of-island](https://github.com/Varshith019/java-dsa/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Varshith019/java-dsa/tree/master/1020-number-of-enclaves) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Varshith019/java-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/Varshith019/java-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -275,6 +279,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0703-kth-largest-element-in-a-stream](https://github.com/Varshith019/java-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Varshith019/java-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sliding Window
 |  |
 | ------- |
