@@ -40,6 +40,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0918-maximum-sum-circular-subarray](https://github.com/Varshith019/java-dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Varshith019/java-dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Varshith019/java-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Varshith019/java-dsa/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Varshith019/java-dsa/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
@@ -217,6 +218,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0700-search-in-a-binary-search-tree](https://github.com/Varshith019/java-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Varshith019/java-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Varshith019/java-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Varshith019/java-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -288,6 +290,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0700-search-in-a-binary-search-tree](https://github.com/Varshith019/java-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Varshith019/java-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Varshith019/java-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Varshith019/java-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sliding Window
@@ -340,12 +343,14 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Varshith019/java-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Varshith019/java-dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Varshith019/java-dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/Varshith019/java-dsa/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Varshith019/java-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Varshith019/java-dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
@@ -396,6 +401,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0450-delete-node-in-a-bst](https://github.com/Varshith019/java-dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Varshith019/java-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Varshith019/java-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Varshith019/java-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
