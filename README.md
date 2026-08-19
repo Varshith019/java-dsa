@@ -205,6 +205,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0113-path-sum-ii](https://github.com/Varshith019/java-dsa/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Varshith019/java-dsa/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Varshith019/java-dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Varshith019/java-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Varshith019/java-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -277,6 +278,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0113-path-sum-ii](https://github.com/Varshith019/java-dsa/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Varshith019/java-dsa/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Varshith019/java-dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Varshith019/java-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Varshith019/java-dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Varshith019/java-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -343,6 +345,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/Varshith019/java-dsa/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Varshith019/java-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Varshith019/java-dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Varshith019/java-dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -361,6 +364,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Varshith019/java-dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/Varshith019/java-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Varshith019/java-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Varshith019/java-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -396,6 +400,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Varshith019/java-dsa/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Varshith019/java-dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Varshith019/java-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Varshith019/java-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Varshith019/java-dsa/tree/master/0450-delete-node-in-a-bst) |
@@ -475,4 +480,8 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Varshith019/java-dsa/tree/master/0416-partition-equal-subset-sum) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Varshith019/java-dsa/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
