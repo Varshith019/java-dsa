@@ -14,21 +14,60 @@
  * }
  */
 class Solution {
-    HashSet<Integer> hs = new HashSet<>();
-    public boolean check(TreeNode root,int k){
-        if(root==null) return false;
-        int val = k-root.val;
-        if(hs.contains(val)) {
-            return true;
+    Stack<TreeNode> st1 = new Stack<>(); // descending
+    Stack<TreeNode> st2 = new Stack<>(); // ascending
+
+    public void in(TreeNode root) {
+        while (root != null) {
+            st1.push(root);
+            root = root.right;
         }
-        hs.add(root.val);
-        Boolean left = check(root.left,k);
-        Boolean right = check(root.right,k);
-        if(left||right) return true;
+    }
+
+    public void de(TreeNode root) {
+        while (root != null) {
+            st2.push(root);
+            root = root.left;
+        }
+    }
+
+    public TreeNode nextSmallest() {
+        TreeNode curr = st2.pop();
+        de(curr.right);       // right subtree, then full left
+        return curr;
+    }
+
+    public TreeNode nextLargest() {
+        TreeNode curr = st1.pop();
+        in(curr.left);        // left subtree, then full right
+        return curr;
+    }
+
+    public boolean findTarget(TreeNode root, int k) {
+        if (root == null) return false;
+
+        de(root);
+        in(root);
+
+        TreeNode xnode = nextSmallest();
+        TreeNode ynode = nextLargest();
+
+        while (xnode != ynode && xnode.val < ynode.val) {
+            int sum = xnode.val + ynode.val;
+
+            if (sum == k) {
+                return true;
+            }
+
+            if (sum > k) {
+                if (st1.isEmpty()) return false;
+                ynode = nextLargest();
+            } else {
+                if (st2.isEmpty()) return false;
+                xnode = nextSmallest();
+            }
+        }
 
         return false;
-    }
-    public boolean findTarget(TreeNode root, int k) {
-       return check(root,k);
     }
 }
