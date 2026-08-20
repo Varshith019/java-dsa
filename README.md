@@ -70,6 +70,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Varshith019/java-dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Varshith019/java-dsa/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Varshith019/java-dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Varshith019/java-dsa/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Varshith019/java-dsa/tree/master/0746-min-cost-climbing-stairs) |
@@ -166,6 +167,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0257-binary-tree-paths](https://github.com/Varshith019/java-dsa/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/Varshith019/java-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Varshith019/java-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Varshith019/java-dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
