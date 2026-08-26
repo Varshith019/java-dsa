@@ -64,6 +64,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | ------- |
 | [0053-maximum-subarray](https://github.com/Varshith019/java-dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Varshith019/java-dsa/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Varshith019/java-dsa/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Varshith019/java-dsa/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Varshith019/java-dsa/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0300-longest-increasing-subsequence) |
@@ -164,6 +165,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varshith019/java-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0115-distinct-subsequences](https://github.com/Varshith019/java-dsa/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Varshith019/java-dsa/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/Varshith019/java-dsa/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/Varshith019/java-dsa/tree/master/0424-longest-repeating-character-replacement) |
