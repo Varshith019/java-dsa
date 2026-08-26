@@ -76,6 +76,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0746-min-cost-climbing-stairs](https://github.com/Varshith019/java-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Varshith019/java-dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/Varshith019/java-dsa/tree/master/1092-shortest-common-supersequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Varshith019/java-dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Varshith019/java-dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
@@ -169,6 +170,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0451-sort-characters-by-frequency](https://github.com/Varshith019/java-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/Varshith019/java-dsa/tree/master/1092-shortest-common-supersequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Varshith019/java-dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -493,4 +495,8 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Varshith019/java-dsa/tree/master/0173-binary-search-tree-iterator) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/Varshith019/java-dsa/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
