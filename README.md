@@ -62,6 +62,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Varshith019/java-dsa/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Varshith019/java-dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Varshith019/java-dsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Varshith019/java-dsa/tree/master/0072-edit-distance) |
@@ -95,6 +96,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Varshith019/java-dsa/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Varshith019/java-dsa/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Varshith019/java-dsa/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Varshith019/java-dsa/tree/master/0860-lemonade-change) |
@@ -166,6 +168,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varshith019/java-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/Varshith019/java-dsa/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Varshith019/java-dsa/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Varshith019/java-dsa/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Varshith019/java-dsa/tree/master/0127-word-ladder) |
@@ -354,6 +357,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Varshith019/java-dsa/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
