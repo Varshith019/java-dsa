@@ -56,6 +56,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Varshith019/java-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2090-k-radius-subarray-averages](https://github.com/Varshith019/java-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/Varshith019/java-dsa/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Varshith019/java-dsa/tree/master/2460-apply-operations-to-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Varshith019/java-dsa/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Varshith019/java-dsa/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -165,6 +166,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [1089-duplicate-zeros](https://github.com/Varshith019/java-dsa/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Varshith019/java-dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/Varshith019/java-dsa/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Varshith019/java-dsa/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
@@ -184,6 +186,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Varshith019/java-dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Varshith019/java-dsa/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/Varshith019/java-dsa/tree/master/2109-adding-spaces-to-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Varshith019/java-dsa/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/Varshith019/java-dsa/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Indexed Tree
@@ -379,6 +382,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Simulation
 |  |
 | ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/Varshith019/java-dsa/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Varshith019/java-dsa/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Varshith019/java-dsa/tree/master/2460-apply-operations-to-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Varshith019/java-dsa/tree/master/2558-take-gifts-from-the-richest-pile) |
