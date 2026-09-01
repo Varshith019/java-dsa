@@ -75,6 +75,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0416-partition-equal-subset-sum](https://github.com/Varshith019/java-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Varshith019/java-dsa/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/Varshith019/java-dsa/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Varshith019/java-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Varshith019/java-dsa/tree/master/0918-maximum-sum-circular-subarray) |
@@ -155,6 +156,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0160-intersection-of-two-linked-lists](https://github.com/Varshith019/java-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Varshith019/java-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Varshith019/java-dsa/tree/master/0455-assign-cookies) |
+| [0647-palindromic-substrings](https://github.com/Varshith019/java-dsa/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Varshith019/java-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Varshith019/java-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Varshith019/java-dsa/tree/master/0881-boats-to-save-people) |
@@ -176,6 +178,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0424-longest-repeating-character-replacement](https://github.com/Varshith019/java-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Varshith019/java-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/Varshith019/java-dsa/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/Varshith019/java-dsa/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Varshith019/java-dsa/tree/master/1092-shortest-common-supersequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Varshith019/java-dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
