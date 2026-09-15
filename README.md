@@ -89,6 +89,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Varshith019/java-dsa/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Varshith019/java-dsa/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Varshith019/java-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0300-longest-increasing-subsequence) |
@@ -111,6 +112,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Varshith019/java-dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Varshith019/java-dsa/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Varshith019/java-dsa/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/Varshith019/java-dsa/tree/master/0441-arranging-coins) |
@@ -518,4 +520,8 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/Varshith019/java-dsa/tree/master/1092-shortest-common-supersequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Varshith019/java-dsa/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
