@@ -15,6 +15,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0075-sort-colors](https://github.com/Varshith019/java-dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Varshith019/java-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Varshith019/java-dsa/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Varshith019/java-dsa/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Varshith019/java-dsa/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Varshith019/java-dsa/tree/master/0209-minimum-size-subarray-sum) |
@@ -92,6 +93,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0033-search-in-rotated-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Varshith019/java-dsa/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Varshith019/java-dsa/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Varshith019/java-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Varshith019/java-dsa/tree/master/0300-longest-increasing-subsequence) |
