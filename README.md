@@ -9,6 +9,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0011-container-with-most-water](https://github.com/Varshith019/java-dsa/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Varshith019/java-dsa/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Varshith019/java-dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Varshith019/java-dsa/tree/master/0075-sort-colors) |
@@ -88,6 +89,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Varshith019/java-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Varshith019/java-dsa/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Varshith019/java-dsa/tree/master/0162-find-peak-element) |
