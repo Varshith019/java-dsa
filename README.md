@@ -62,6 +62,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [2090-k-radius-subarray-averages](https://github.com/Varshith019/java-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Varshith019/java-dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Varshith019/java-dsa/tree/master/2109-adding-spaces-to-a-string) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Varshith019/java-dsa/tree/master/2187-minimum-time-to-complete-trips) |
 | [2460-apply-operations-to-an-array](https://github.com/Varshith019/java-dsa/tree/master/2460-apply-operations-to-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Varshith019/java-dsa/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Varshith019/java-dsa/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -106,6 +107,7 @@ Mastering Data Structures and Algorithms through pattern-based solutions, templa
 | [0875-koko-eating-bananas](https://github.com/Varshith019/java-dsa/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Varshith019/java-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Varshith019/java-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Varshith019/java-dsa/tree/master/2187-minimum-time-to-complete-trips) |
 ## Greedy
 |  |
 | ------- |
